@@ -37,7 +37,6 @@ The tribute page highlights key events in Dr. Borlaug's life and achievements, p
 You can view a live demo of the tribute page [here](https://munirahmad9959.github.io/Tribute-Page/).
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
